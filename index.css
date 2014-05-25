@@ -1,0 +1,40 @@
+.one {
+background:skyblue;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+}
+.two {
+background:lightgreen;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+
+}
+
+.three {
+background:turquoise;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+
+}
+.para {
+vertical-align: middle;
+font-family: Arial;
+font-size: 20px;
+font-weight: normal;
+padding-top:70px;
+}
+
+
+a {
+color: black;
+text-decoration: none;
+}

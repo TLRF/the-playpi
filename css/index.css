@@ -1,0 +1,58 @@
+.one {
+background:skyblue;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+}
+.two {
+background:lightgreen;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+
+}
+
+.three {
+background:turquoise;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+
+
+}
+
+
+.four {
+background:lavender;
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+}
+.empty {
+text-align: center;
+width: 160px;
+height:160px;
+vertical-align: middle;
+}
+
+.para {
+vertical-align: middle;
+font-family: Arial;
+font-size: 20px;
+font-weight: normal;
+padding-top:70px;
+margin-bottom: 0.5em;
+margin-top: 0em;
+}
+
+
+a {
+color: black;
+text-decoration: none;
+}
