@@ -1,52 +1,63 @@
 .one {
-background:skyblue;
+background: skyblue;
 text-align: center;
-width: 160px;
-height:160px;
+width: 120px;
+height:120px;
 vertical-align: middle;
 
 }
 .two {
-background:lightgreen;
+background: lightgreen;
 text-align: center;
-width: 160px;
-height:160px;
+width: 120px;
+height:120px;
 vertical-align: middle;
-
+border-top-right-radius: 2em;
 
 }
 
 .three {
-background:turquoise;
+background: turquoise;
 text-align: center;
-width: 160px;
-height:160px;
+width: 120px;
+height:120px;
 vertical-align: middle;
+
 
 
 }
 
 
 .four {
-background:lavender;
+background: lavender;
 text-align: center;
-width: 160px;
-height:160px;
+width: 120px;
+height:120px;
 vertical-align: middle;
+border-bottom-right-radius: 2em;
+}
+.five {
+background: #DCEDDE;
+text-align: center;
+width: 120px;
+height:120px;
+vertical-align: middle;
+border-bottom-right-radius: 2em;
+
 }
 .empty {
 text-align: center;
-width: 160px;
-height:160px;
+width: 120px;
+height:120px;
 vertical-align: middle;
 }
 
 .para {
 vertical-align: middle;
-font-family: Arial;
-font-size: 20px;
+font-family: Calibri;
+font-size: 16px;
 font-weight: normal;
-padding-top:70px;
+padding-top:50px;
 margin-bottom: 0.5em;
 margin-top: 0em;
 }
